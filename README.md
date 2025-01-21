@@ -11,11 +11,11 @@ This project implements an order management system with hash tables to efficient
 
 - Efficient Search:
         Implements hash tables for quick lookups across key fields:
-            Order number
-            Client's name and surname
-            Item name
-            Quantity
-            Date of order
+           - Order number
+           - Client's name and surname
+           - Item name
+           - Quantity
+           - Date of order
         Returns precise search results instead of ambiguous matches.
 
 - Order Deletion:
